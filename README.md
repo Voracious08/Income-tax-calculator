@@ -11,3 +11,12 @@ The final amount of tax to be paid is shown at the end ( Final amount = lesser o
 
 
 ![image](https://github.com/Voracious08/Income-tax-calculator/blob/main/images/Screenshot%20(152).png)
+
+
+
+# Requirements 
+##### Tomcat server 
+##### Netbeans IDE or Eclipse (This project is made in Netbeans)
+
+
+
